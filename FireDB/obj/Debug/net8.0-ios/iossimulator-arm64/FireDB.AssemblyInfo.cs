@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FireDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d022e60df15c1c4e8630374e559e79a5a677494e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+867ad84f1e05edff83e19359fcfd4014ee709dc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FireDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FireDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
