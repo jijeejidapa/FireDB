@@ -17,7 +17,7 @@ public class FireDBService
     {
         if (db == null)
         {
-            var stream = await FileSystem.OpenAppPackageFileAsync("fir-f84ce-firebase-adminsdk-cpq5n-10240ef3de.json");
+            var stream = await FileSystem.OpenAppPackageFileAsync("fir-f84ce-firebase-adminsdk-cpq5n-ac9061cd0f.json");
             var reader = new StreamReader(stream);
             var contents = reader.ReadToEnd();
             db = new FirestoreDbBuilder
@@ -38,7 +38,7 @@ public class FireDBService
             {
                 var student = new StudentModel();
                 student.Id = doc.Id;
-                student.Id = doc.GetValue<string>("Id");
+               
                 student.Code = doc.GetValue<string>("Code");
                 student.Name = doc.GetValue<string>("Name");
                 return student;

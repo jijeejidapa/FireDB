@@ -52,6 +52,10 @@
 		<data>
 		7d/kVNQmctWpFasfpWUoJ6pGlKE=
 		</data>
+		<key>Resources/fir-f84ce-firebase-adminsdk-cpq5n-ac9061cd0f.json</key>
+		<data>
+		hPMJNPwpTctsGMMQzoKqKUJ/zdA=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -66,14 +70,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VtvCHEoTS/ZFenCqUlRlBKTsNOJr237JKQZDPjsEVOM=
+			7hX+8tNltp7SBJGLjeCNHpLqZ2jztF92itIMqf0nSFo=
 			</data>
 		</dict>
 		<key>MonoBundle/FireDB.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6HPvp/B6NIQaKTOGZkvPLA8Y2kav4ereP/elNXB6sHc=
+			naErJiPYcgrl3oGOCOZA4UG+ZO/nDKBeiRUv18XVo/I=
 			</data>
 		</dict>
 		<key>MonoBundle/Google.Api.CommonProtos.dll</key>
@@ -1866,6 +1870,13 @@
 			<key>hash2</key>
 			<data>
 			ef1Apf1js33qyGg6GX06gLNuLjjIJPCMhUmEH/Ufoak=
+			</data>
+		</dict>
+		<key>Resources/fir-f84ce-firebase-adminsdk-cpq5n-ac9061cd0f.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kZWXOFDhXqi41PATt1L/EEoTl+Jg/ozfj+KGwv0HEb0=
 			</data>
 		</dict>
 	</dict>

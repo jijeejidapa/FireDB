@@ -322,6 +322,7 @@
 /Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FireDB.pdb
 /Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FireDB.genruntimeconfig.cache
 /Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/FireDB.dll
+/Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FireDB.sourcelink.json
 /Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/CommunityToolkit.Mvvm.stamp
 /Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Google.Api.CommonProtos.stamp
 /Users/jijeejidapa/project212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Google.Api.Gax.stamp

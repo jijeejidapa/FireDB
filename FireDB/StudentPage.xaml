@@ -42,10 +42,12 @@
                                 </SwipeItems>
                             </SwipeView.LeftItems>
 
-                            <Grid ColumnDefinitions="*,*">
+                            <Grid ColumnDefinitions="*,*,*">
                                 <Label Grid.Column="0"
-                                       Text="{Binding Code}"></Label>
+                                       Text="{Binding Id}"></Label>
                                 <Label Grid.Column="1"
+                                       Text="{Binding Code}"></Label>
+                                <Label Grid.Column="2"
                                        Text="{Binding Name}"></Label>
 
                             </Grid>
